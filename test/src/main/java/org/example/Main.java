@@ -12,8 +12,14 @@ public class Main {
         return a - b;
     }
 
+    public static void print() {
+        System.out.println("Hello, World!");
+    }
+
     public static boolean isGood() {
         return true;
     }
+
+
 
 }
