@@ -12,8 +12,12 @@ public class Main {
         return a - b;
     }
 
-    public static void print() {
+    public static void printHello() {
         System.out.println("Hello!");
+    }
+
+    public static void printBye() {
+        System.out.println("bye");
     }
 
 }
