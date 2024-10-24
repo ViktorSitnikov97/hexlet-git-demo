@@ -11,15 +11,5 @@ public class Main {
     public static int add(int a, int b) {
         return a - b;
     }
-
-    public static void print() {
-        System.out.println("Hello, World!");
-    }
-
-    public static boolean isGood() {
-        return true;
-    }
-
-
-
+    
 }
